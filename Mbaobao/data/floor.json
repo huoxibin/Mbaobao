@@ -1,0 +1,39 @@
+{
+"floor1_img_src":"img/1F_244_339.jpg img/792-440_03.jpg img/01_1.jpg img/02.jpg img/03.jpg img/04.jpg img/05.jpg",
+"floor_float_right":"本周新品,本月新品,本月上新品牌",
+"floor_float_bottom":"img/f1_1.jpg,img/f1_2.jpg,img/f1_3.jpg,img/f1_4.jpg,img/f1_5.jpg,img/f1_6.jpg,img/f1_7.jpg,img/f1_8.jpg,img/f1_9.jpg,img/f1_10.jpg",
+"floor2":{
+			"img1_src":"img/2F-244-359-2l.jpg ",
+			"img2_five_src":{
+							"first_src":"img/710-360tong.jpg",
+							"second_src":"img/710-360cat.jpg",
+							"three_src":"img/710-360lm.jpg",
+							"four_src":"img/710-360hdj.jpg",
+							"five_src":"img/710-360-E.jpg"
+			},
+			"hot_sell":{
+						"img_1":"img/mplus.jpg",
+						"img_2":"img/lm.jpg",
+						"img_3":"img/m2m.jpg",
+						"img_4":"img/iscov.jpg",
+						"img_5":"img/envirosax.jpg",
+						"img_6":"img/mplus.jpg",
+						"img_7":"img/ai2.jpg",
+						"img_8":"img/cover.jpg"
+			},
+			"three_pic":{
+						"img_1":"img/1503030401.jpg",
+						"img_2":"img/3f_317-160-1607001701.jpg",
+						"img_3":"img/3f_317-1601608011801.jpg"	
+			}
+		}
+
+
+
+
+
+
+
+
+
+}

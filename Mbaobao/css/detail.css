@@ -1,0 +1,85 @@
+*{margin: 0 ;padding: 0 ;}
+body{12px "微软雅黑"}
+ul,li{list-style: none;}
+.tab_nav{display: none;}
+#content_detail{min-height: 10000px;width:100%;margin: -8px auto;background: url(../img/detail_bg.png) repeat-x ;}
+.location{font-family: '宋体';width: 980px;height: 33px;margin: 0 auto;line-height: 33px;color: #333;margin-top: 5px;text-indent: 10px;}
+.location a:hover{color: #D41C50;text-decoration: underline;}
+.detail_main{width: 980px;height: 680px;background: #fff;margin: 0 auto 60px;box-shadow: 0 0 5px rgba(0,0,0,.3);}
+.detail_main_l{width: 377px;height: 680px;float: left;padding: 0 59px 0 15px;}
+.detail_main_r{width: 440px;height: 483px;float: right;}
+.show_pic{width: 480px;height: 480px;margin-top: 10px;position: relative;cursor: pointer;}
+.show_pic img{width: 480px;height: 480px;}
+.show_small_pic{width:480px ;height: 72px;}
+.detail_main_l p{color: #333;height: 40px;width: 480px;text-align: center;background: url(../img/tobig.png) no-repeat 143px center;line-height: 40px;}
+.show_small_pic li{cursor: pointer;width: 62px;height: 62px;float: left;margin: 4px;list-style: none;}
+.show_small_pic li img{width: 62px;height: 62px;border: 1px solid #ccc;}
+.pic_operate{width: 400px;height: 34px;margin-top: 5px;padding-top: 10px;}
+.pic_operate em{font-style: normal;}
+.pic_operate .like{;color:#d41c50;cursor: pointer;display: block;width: 115px;line-height: 14px;float: left;text-align: center;background: url(../img/heart.png) no-repeat left center;margin-top: 3px;font-size: 14px;}
+.pic_operate .unlike{cursor: pointer;display: block;width: 115px;line-height: 14px;float: left;text-align: center;background: url(../img/unheart.png) no-repeat left center;margin-top: 3px;font-size: 14px;}
+.pic_operate .share{width: 155px;height: 24px;line-height: 24px;float: right;}
+.pic_operate .share p{width:50px ;height: 16px;line-height: 16px;float: left;background: #CDCDCD;margin-top: 4px;}
+.pic_operate .share a{width: 16px;height: 16px;float: left;margin: 4px;}
+.pic_operate .share_a1{background: url(../img/share_icon.png) 0 0;}
+.pic_operate .share_a2{background: url(../img/share_icon.png) 0 -26px;}
+.pic_operate .share_a3{background: url(../img/share_icon.png) 0 -52px;}
+.pic_operate .share_a4{background: url(../img/share_icon.png) 0 -104px;}
+.goods_title{width: 440px;height: 55px;border-bottom: 1px solid #DCDCDC;padding-top: 35px;}
+.goods_name{width: 350px;height: 41px;font-size: 16px;}
+.goods_price{width: 440px;height: 138px;}
+.goods_price_l{width: 320px;height: 118px;float: left;padding-top:20px ;}
+.goods_price_l_t span:nth-child(1){font-size: 14px;font-family: '宋体';color: #333;}
+.goods_price_l_t span:nth-child(1) b{color: #CA224E;font:700 14px  arial;}
+.goods_price_l_t span:nth-child(2){font: 700 36px arial;color: #CA224E;}
+.goods_price_l_t span:nth-child(3){font: 12px "微软雅黑";background: #d83061;color: #FFFFFF;padding:2px 5px;border-radius: 4px;position: relative;top: -5px;}
+.goods_login{line-height: 41px;}
+.goods_login span:nth-child(1){color: #333;margin-left: 50px;}
+.goods_login span:nth-child(2){color: #D41C50;}
+.ori_price{margin-left: 55px;color: #999;}
+.ori_price b{font-family: arial;}
+.goods_price_r{width: 100px;padding: 10px 10px 5px 10px ;height:123px;float: left;}
+.goods_price_r p{text-align: center;margin-top: 5px;}
+.goods_sell-comment{width: 440px;height: 72px;border-top: 1px solid #DCDCDC;border-bottom: 1px solid #DCDCDC;}
+.goods_sell-comment li{width: 219px;height: 72px;float: left;text-align: center;}
+.goods_sell-comment li p{line-height: 22px;}
+.goods_sell-comment_num{font:700 14px "微软雅黑";color: #D41C4F;}
+.goods_color{width: 440px;height:50px ;margin-top: 15px;}
+.goods_color h4{width: 48px;height: 50px;float: left;line-height: 50px;margin-right: 25px;font-family: arial;font-weight: 400;}
+.goods_color a{width: 42px;height: 42px;float: left;display: block;margin-left: 5px;}
+.goods_color a img{border: 1px solid #DCDCDC;width: 41px;height: 41px;}
+.goods_store{width: 440px;height: 35px;line-height: 35px;color: #d41c50;font-weight: 700;font-family: arial "微软雅黑";}
+.goods_action_btn{width: 440px;height: 62px;}
+.goods_buy_btn{width: 231px;height: 40px;background:url(../img/item.png) 0 -108px;display: block;text-indent: -9999px;float: left;}
+.goods_btn_collect {width: 153px;height: 30px;background: url(../img/item.png) 0 -218px;display: block;float: left;text-indent: -99999px;margin-top: 10px;margin-left: 10px;}
+.goods_buy_btn:hover{background:url(../img/item.png) 0 -68px;}
+.goods_btn_collect:hover{background: url(../img/item.png) 0 -148px;}
+.goods_service{width: 440px;height: 24px;line-height: 24px;}
+.goods_service span{margin-right: 5px;color: #999;}
+.detail_head_nav{width: 981px;height: 30px;margin: 30px auto 0;border-bottom: 1px solid #333;}
+.detail_head_nav ul{background: #fff;width:304px ;height: 30px;float: left;}
+.detail_head_nav ul a{display: block;float: left;width: 100px;height: 31px;text-align: center;line-height: 31px;border-right: 1px solid #DCDCDC;border-top: 1px solid #DCDCDC;}
+.detail_head_nav ul a:nth-child(1){border-left: 1px solid #DCDCDC;background: #fff;border-top:1px solid #333;}
+.feather_buy{width: 170px;height: 30px;float: right;line-height: 30px;}
+.feather_buy span{color: #D41C50;font-family: arial;}
+.feather_buy span b{font:14px arial}
+.feather_buy span em{font-size: 20px;font-style: normal;font-weight: 700;margin-right: 7px;}
+.feather_buy  a{text-align: center;color: #fff;background: #D41C50;padding: 5px 15px ;position: relative;top: -3px;}
+.goods_production{background: #fff;text-align: center;width: 980px;min-height:15910px ;margin: 0 auto;border: 1px solid #DCDCDC;border-top: none;}
+.ico_property{width: 100%;height: 201px;border-bottom: 1px solid #DCDCDC;}
+.preview_wrap{text-align: center;}
+.preview_wrap img{display: block;margin: 0 auto;}
+#footer_detail{margin-top: 40px;}
+/*放大镜*/
+.jing{width: 221px;height: 234px;background: #EDEDED;position: absolute;top: 0;left: 0;border: 1px solid #CA224E;opacity: 0.2;display: none;}
+.big_show{display: none;width: 470px;height: 500px;position: absolute;left: 240px;top: 0;opacity: 0;z-index: 9999;background: url(../img/bags_001.jpg) ;}
+
+*{font:12px "微软雅黑";}
+a{text-decoration: none;}
+
+
+
+
+
+
+

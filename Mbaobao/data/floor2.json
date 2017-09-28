@@ -1,0 +1,27 @@
+{
+	"f2":{
+			"src1":"f2_0.jpg",
+			"src_lb":{
+						"lb_1":"2_1.jpg",
+						"lb_2":"2_2.jpg",
+						"lb_3":"2_3.jpg",
+						"lb_4":"2_4.jpg",
+						"lb_5":"2_5.jpg"
+					 },
+			"src3":{
+			 			"src_m1":"f2_1.jpg",
+			 			"src_m2":"f2_2.jpg",
+			 			"src_m3":"f2_3.jpg",
+			 			"src_m4":"f2_4.jpg",
+			 			"src_m5":"f2_5.jpg",
+			 			"src_m6":"f2_6.jpg",
+			 			"src_m7":"f2_7.jpg",
+			 			"src_m8":"f2_8.jpg",
+			 			"src_m9":"f2_9.jpg",
+			 			"src_m10":"f2_10.jpg"
+			 		
+			 		}
+		  }
+	
+
+}

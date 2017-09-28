@@ -1,0 +1,59 @@
+*{margin: 0 ;padding: 0;}
+ul,li{list-style: none;}
+body{font: 12px "微软雅黑";}
+.shop_head{width: 100%;height: 90px;border-bottom: 2px solid #ed1c22;}
+.shop_head_main{width: 960px;height: 90px;margin: 0 auto;}
+.shop_head_main .shop_logo{display: block;width: 91px;height: 52px;float: left;margin-top: 30px;}
+.shop_consumer{width: 300px;height: 47px;float: left;margin: 40px 0 0 25px;}
+.shop_consumer p{width: 300px;height: 18px;font-family: tahoma;}
+.shop_step{width: 440px;height: 80px;float: right;}
+.shop_step ul{width: 440px;height: 53px;padding-top: 33px;}
+.shop_step ul li{width: 110px;height: 18px;float: left;text-align: center;}
+.shop_step ul img{margin-left: 58px;}
+/********************shop_container******************************/
+.shop_container{background: #F0F0F0;width: 100%;min-height: 428px;padding-top: 40px;}
+.shop_container .shop_notice{width: 944px;height: 15px;margin: 0 auto 15px ;background: #fffdee;border: 1px solid #d7d7d7;padding: 12px 8px;border-radius: 3px;}
+.shop_container .shop_cart{width: 930px;min-height: 278px;background: #fff;box-shadow: 0 0 10px rgba(0,0,0,.3);margin: 0 auto;padding: 15px;}
+.goods_list{width: 100%;border: 0;border-collapse: collapse; border-spacing: 0;}
+.shop_container .shop_cart th{border-bottom:2px solid #666 ;}
+.goods_list th{border: 0;}
+.shop_cart tbody tr td {padding: 5px;text-align: center;border: 0;border-bottom: 2px dashed   #DCDCDC;}
+.shop_cart tbody tr td a:hover{color: #CA234F;}
+.list_footer{width: 930px;min-height: 207px;border-bottom: 2px #ccc solid;}
+.list_footer_l{width: 600px;min-height: 207px;float: left;}
+.list_footer_r{width: 180px;min-height: 207px;float: right;}
+.list_footer_l input{outline: none;width: 50px;height: 25px;border: 0;border: 1px solid #DCDCDC;font: 12px arial;}
+.list_footer_l .maidou{height: 25px;line-height: 25px;margin-top: 20px;}
+.list_footer_l .maidou span{margin-left: 3px;}
+.list_footer_l .maidou_notice{position: relative;margin-top: 10px;border: 1px solid #D7D7D7;background: #fffdee;width: 510px;min-height: 12px;line-height: 12px;padding: 10px 8px;border-radius: 3px;}
+.list_footer_r li{height: 24px;line-height: 24px;text-align: right;}
+.list_footer_r ul{margin-top: 20px;color: #666;font-family: arial;}
+.maidou_notice b{position: absolute;display: block;width: 11px;height: 6px;background: url(../img/shop_jiao.png);top: -6px;}
+.shoudPay span{font-size: 20px;font-weight: 700;color: #ed1c22;}
+.shoudPay{margin-top: 24px;}
+.freight{margin-top: 24px;}
+/*********************************list_footer*****************************/
+.shop_footer{width: 100%;height: 133px;}
+.shop_footer ul{width: 960px;height: 40px;margin: 20px auto 40px;background: url(../img/footer-bar.jpg);}
+.copyright{width: 960px;height: 34px;line-height: 34px;margin: 0 auto;text-align: center;color: #666;}
+.copyright a{color: #666;text-decoration: none;}
+.copyright a:hover{color: #D41C4F;text-decoration: underline;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
